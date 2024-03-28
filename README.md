@@ -1,2 +1,2 @@
-# Login-and-Sign-up-with-selenium
+# Account Creation
 Using selenium commands
